@@ -1,0 +1,7 @@
+torch
+torchaudio
+speechbrain
+sounddevice
+scipy
+numpy
+tkinter
